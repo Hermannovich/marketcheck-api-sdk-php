@@ -1,5 +1,5 @@
 {
-    "name": "GIT_USER_ID/GIT_REPO_ID",
+    "name": "hermannovich/marketcheck-api-sdk-php",
     "description": "",
     "keywords": [
         "swagger",
@@ -8,12 +8,12 @@
         "api",
         "marketcheck"
     ],
-    "homepage": "http://swagger.io",
-    "license": "proprietary",
+    "homepage": "https://github.com/Hermannovich/marketcheck-api-sdk-php.git",
+    "license": "MIT",
     "authors": [
         {
-            "name": "Swagger and contributors",
-            "homepage": "https://github.com/swagger-api/swagger-codegen"
+            "name": "Hermannovich",
+            "homepage": "https://hermannovich.github.io/"
         }
     ],
     "require": {
@@ -35,3 +35,4 @@
         "psr-4": { "marketcheck\\api\\sdk\\" : "test/" }
     }
 }
+
