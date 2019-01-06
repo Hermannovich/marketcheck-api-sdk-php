@@ -5,7 +5,8 @@
         "swagger",
         "php",
         "sdk",
-        "api"
+        "api",
+        "marketcheck"
     ],
     "homepage": "http://swagger.io",
     "license": "proprietary",
